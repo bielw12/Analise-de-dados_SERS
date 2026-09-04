@@ -1,5 +1,13 @@
 # Análise de Dados — SERS
 
+Integrantes:
+•	Gabriel Pedro – RM:571995
+•	Sammy Sato – RM:569182
+•	João Vitor Belchior – RM:572478
+•	Thiago Coelho – RM:568783
+•	João Pedro Teixeira – RM:569937
+
+
 Atividades de análise de dados da disciplina **Soluções em Energias Renováveis e Sustentáveis (SERS)** — Ciência da Computação.
 
 O fio condutor de todos os notebooks é o mesmo: partir de uma base de consumo ou geração de energia, tratar os atributos, localizar os **períodos de alta demanda / alta geração** e depois cruzar esse recorte com uma **segunda condição** (ambiental, elétrica ou temporal), comparando os dois conjuntos resultantes.
