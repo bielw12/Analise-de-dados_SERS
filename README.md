@@ -2,9 +2,13 @@
 
 Integrantes:
 •	Gabriel Pedro – RM:571995
+
 •	Sammy Sato – RM:569182
+
 •	João Vitor Belchior – RM:572478
+
 •	Thiago Coelho – RM:568783
+
 •	João Pedro Teixeira – RM:569937
 
 
